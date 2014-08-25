@@ -1,0 +1,1 @@
+Client Server communication project using SOCKET library in Java. 
